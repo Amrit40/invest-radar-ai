@@ -54,7 +54,7 @@ if uploaded_file is not None:
             result = get_investment_signal(extracted_data)
         
         st.success("Analysis Complete!")
-        st.markdown("###AI Opportunity Signal")
+        st.markdown("### AI Opportunity Signal")
         st.info(result)
         
         with st.expander("Show Raw Extracted Text (For Debugging)"):
