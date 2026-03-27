@@ -39,7 +39,7 @@ def get_investment_signal(report_text):
 #STREAMLIT UI
 st.set_page_config(page_title="InvestRadar AI", page_icon="📈", layout="centered")
 
-st.title("Opportunity Radar AI")
+st.title("Invest Radar AI")
 st.caption("Powered by Llama 3.1 | ET AI Hackathon 2026 - Track 6")
 st.write("Upload any Indian Company's Corporate Filing (PDF) and let AI uncover hidden investment signals instantly.")
 
