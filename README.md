@@ -28,14 +28,6 @@ Powered by the blazing-fast Groq API and Llama 3.1, this agentic workflow direct
 
 ---
 
-## 📂 Hackathon Submission Documents
-
-To evaluate the business viability and technical depth of this project, please review the following documents attached in this repository:
-
-* 📄 **[Architecture Document](./Architecture_Document.pdf):** Detailed system flow, component roles, and error-handling logic.
-* 📊 **[Quantified Impact Model](./Impact_Model.pdf):** Mathematical breakdown of time saved and retail wealth protected at scale.
-
----
 
 ## ⚙️ How to Run Locally
 
